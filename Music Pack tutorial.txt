@@ -1,0 +1,11 @@
+# Music-1.18-
+sound in disc on minecraft 1.18
+step 1 :download this pack
+step 2 :open it with winrar or 7zip 
+step 3 :extract it 
+step 4 :you need to file NTResouce Pack 1.18>sounds>music>game>records  
+note: you need to convert your .mp3 audio file to .ogg
+step 5 :put it in the file NTResouce Pack 1.18>sounds>music>game>records
+step 6 :put it in the file resouce pack belong to minecraft
+Note : I'm Vietnamese, so I'm bad at English,Sorry ^_^
+end!!
